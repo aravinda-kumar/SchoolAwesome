@@ -1,0 +1,417 @@
+﻿DEBUG 2018-03-12 00:45:28,580 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-03-12 00:45:28,725 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2018-03-12 00:45:29,404 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolAwesome.Migrator.SchoolAwesomeMigratorModule, SchoolAwesome.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-12 00:45:29,408 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolAwesome.EntityFrameworkCore.SchoolAwesomeEntityFrameworkModule, SchoolAwesome.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-12 00:45:29,409 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolAwesome.SchoolAwesomeCoreModule, SchoolAwesome.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-12 00:45:29,409 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-12 00:45:29,410 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-12 00:45:29,411 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-12 00:45:29,412 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-12 00:45:29,413 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-12 00:45:29,413 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-12 00:45:29,418 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2018-03-12 00:45:30,331 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: SchoolAwesome.EntityFrameworkCore.SchoolAwesomeDbContext, SchoolAwesome.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-12 00:45:31,361 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2018-03-12 00:45:31,385 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-03-12 00:45:31,394 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2018-03-12 00:45:31,398 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: SchoolAwesome
+INFO  2018-03-12 00:45:31,744 [1    ] SchoolAwesome.Migrator.Log               - Host database: server=localhost,1401;database=SchoolAwesomeDb;user id=*****;password=*****
+INFO  2018-03-12 00:45:31,744 [1    ] SchoolAwesome.Migrator.Log               - Continue to migration for this host database and all tenants..? (Y/N): 
+INFO  2018-03-12 00:45:52,502 [1    ] SchoolAwesome.Migrator.Log               - HOST database migration started...
+INFO  2018-03-12 00:46:10,074 [1    ] SchoolAwesome.Migrator.Log               - HOST database migration completed.
+INFO  2018-03-12 00:46:10,075 [1    ] SchoolAwesome.Migrator.Log               - --------------------------------------------------------
+INFO  2018-03-12 00:46:10,137 [1    ] SchoolAwesome.Migrator.Log               - All databases have been migrated.
+DEBUG 2018-03-12 00:49:43,025 [1    ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2018-03-12 00:49:43,027 [1    ] Abp.Modules.AbpModuleManager             - Shutting down completed.
+DEBUG 2018-03-12 18:03:05,406 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-03-12 18:03:05,548 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2018-03-12 18:03:06,106 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolAwesome.Migrator.SchoolAwesomeMigratorModule, SchoolAwesome.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-12 18:03:06,110 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolAwesome.EntityFrameworkCore.SchoolAwesomeEntityFrameworkModule, SchoolAwesome.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-12 18:03:06,110 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolAwesome.SchoolAwesomeCoreModule, SchoolAwesome.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-12 18:03:06,111 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-12 18:03:06,111 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-12 18:03:06,111 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-12 18:03:06,111 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-12 18:03:06,112 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-12 18:03:06,112 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-12 18:03:06,116 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2018-03-12 18:03:06,803 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: SchoolAwesome.EntityFrameworkCore.SchoolAwesomeDbContext, SchoolAwesome.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-12 18:03:07,613 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2018-03-12 18:03:07,638 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-03-12 18:03:07,645 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2018-03-12 18:03:07,648 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: SchoolAwesome
+INFO  2018-03-12 18:03:07,977 [1    ] SchoolAwesome.Migrator.Log               - Host database: server=localhost,1401;database=SchoolAwesomeDb;user id=*****;password=*****
+INFO  2018-03-12 18:03:07,977 [1    ] SchoolAwesome.Migrator.Log               - Continue to migration for this host database and all tenants..? (Y/N): 
+INFO  2018-03-12 18:04:26,792 [1    ] SchoolAwesome.Migrator.Log               - HOST database migration started...
+INFO  2018-03-12 18:04:28,832 [1    ] SchoolAwesome.Migrator.Log               - HOST database migration completed.
+INFO  2018-03-12 18:04:28,832 [1    ] SchoolAwesome.Migrator.Log               - --------------------------------------------------------
+INFO  2018-03-12 18:04:28,902 [1    ] SchoolAwesome.Migrator.Log               - All databases have been migrated.
+DEBUG 2018-03-12 18:04:32,964 [1    ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2018-03-12 18:04:32,966 [1    ] Abp.Modules.AbpModuleManager             - Shutting down completed.
+DEBUG 2018-03-13 04:29:46,064 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-03-13 04:29:46,177 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2018-03-13 04:29:46,611 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolAwesome.Migrator.SchoolAwesomeMigratorModule, SchoolAwesome.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:29:46,615 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolAwesome.EntityFrameworkCore.SchoolAwesomeEntityFrameworkModule, SchoolAwesome.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:29:46,615 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolAwesome.SchoolAwesomeCoreModule, SchoolAwesome.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:29:46,615 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:29:46,616 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:29:46,616 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:29:46,616 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:29:46,617 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:29:46,617 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:29:46,621 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2018-03-13 04:29:47,302 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: SchoolAwesome.EntityFrameworkCore.SchoolAwesomeDbContext, SchoolAwesome.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:29:48,046 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2018-03-13 04:29:48,078 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-03-13 04:29:48,086 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2018-03-13 04:29:48,092 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: SchoolAwesome
+INFO  2018-03-13 04:29:48,421 [1    ] SchoolAwesome.Migrator.Log               - Host database: server=localhost,1401;database=SchoolAwesomeDb;user id=*****;password=*****
+INFO  2018-03-13 04:29:48,422 [1    ] SchoolAwesome.Migrator.Log               - Continue to migration for this host database and all tenants..? (Y/N): 
+INFO  2018-03-13 04:30:24,100 [1    ] SchoolAwesome.Migrator.Log               - HOST database migration started...
+INFO  2018-03-13 04:30:24,861 [1    ] SchoolAwesome.Migrator.Log               - An error occured during migration of host database:
+INFO  2018-03-13 04:30:24,965 [1    ] SchoolAwesome.Migrator.Log               - System.InvalidOperationException: Unable to determine the relationship represented by navigation property 'School_Class.ClassSubjects' of type 'ICollection<School_Subject>'. Either manually configure the relationship, or ignore this property using the '[NotMapped]' attribute or by using 'EntityTypeBuilder.Ignore' in 'OnModelCreating'.
+   at Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.PropertyMappingValidationConvention.Apply(InternalModelBuilder modelBuilder)
+   at Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher.ImmediateConventionScope.OnModelBuilt(InternalModelBuilder modelBuilder)
+   at Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher.OnModelBuilt(InternalModelBuilder modelBuilder)
+   at Microsoft.EntityFrameworkCore.Metadata.Internal.Model.Validate()
+   at Microsoft.EntityFrameworkCore.Metadata.Internal.InternalModelBuilder.Validate()
+   at Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.CreateModel(DbContext context, IConventionSetBuilder conventionSetBuilder, IModelValidator validator)
+   at Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.<>c__DisplayClass5_0.<GetModel>b__0(Object k)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.GetModel(DbContext context, IConventionSetBuilder conventionSetBuilder, IModelValidator validator)
+   at Microsoft.EntityFrameworkCore.Internal.DbContextServices.CreateModel()
+   at Microsoft.EntityFrameworkCore.Internal.DbContextServices.get_Model()
+   at Microsoft.EntityFrameworkCore.Infrastructure.EntityFrameworkServicesBuilder.<>c.<TryAddCoreServices>b__7_1(IServiceProvider p)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitFactory(FactoryCallSite factoryCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScoped(ScopedCallSite scopedCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScoped(ScopedCallSite scopedCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.<>c__DisplayClass22_0.<RealizeService>b__0(ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.get_InternalServiceProvider()
+   at Microsoft.EntityFrameworkCore.DbContext.Microsoft.EntityFrameworkCore.Infrastructure.IInfrastructure<System.IServiceProvider>.get_Instance()
+   at Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade.Microsoft.EntityFrameworkCore.Infrastructure.IInfrastructure<System.IServiceProvider>.get_Instance()
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.GetRelationalService[TService](IInfrastructure`1 databaseFacade)
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(DatabaseFacade databaseFacade)
+   at Abp.Zero.EntityFrameworkCore.AbpZeroDbMigrator`1.CreateOrMigrate(AbpTenantBase tenant, Action`1 seedAction) in D:\Github\aspnetboilerplate\src\Abp.ZeroCore.EntityFrameworkCore\Zero\EntityFrameworkCore\AbpZeroDbMigrator.cs:line 74
+   at SchoolAwesome.Migrator.MultiTenantMigrateExecuter.Run(Boolean skipConnVerification) in /Users/idowuakinde/TutorialsAndSamples/DotNet/ASP.NET Boilerplate/SchoolAwesome/3.5.0/aspnet-core/src/SchoolAwesome.Migrator/MultiTenantMigrateExecuter.cs:line 62
+INFO  2018-03-13 04:30:24,965 [1    ] SchoolAwesome.Migrator.Log               - Canceled migrations.
+DEBUG 2018-03-13 04:32:32,320 [1    ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2018-03-13 04:32:32,322 [1    ] Abp.Modules.AbpModuleManager             - Shutting down completed.
+DEBUG 2018-03-13 04:33:55,405 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-03-13 04:33:55,493 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2018-03-13 04:33:55,847 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolAwesome.Migrator.SchoolAwesomeMigratorModule, SchoolAwesome.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:33:55,851 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolAwesome.EntityFrameworkCore.SchoolAwesomeEntityFrameworkModule, SchoolAwesome.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:33:55,851 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolAwesome.SchoolAwesomeCoreModule, SchoolAwesome.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:33:55,852 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:33:55,853 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:33:55,853 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:33:55,853 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:33:55,854 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:33:55,854 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:33:55,858 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2018-03-13 04:33:56,352 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: SchoolAwesome.EntityFrameworkCore.SchoolAwesomeDbContext, SchoolAwesome.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:33:56,977 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2018-03-13 04:33:56,996 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-03-13 04:33:57,004 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2018-03-13 04:33:57,009 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: SchoolAwesome
+INFO  2018-03-13 04:33:57,262 [1    ] SchoolAwesome.Migrator.Log               - Host database: server=localhost,1401;database=SchoolAwesomeDb;user id=*****;password=*****
+INFO  2018-03-13 04:33:57,262 [1    ] SchoolAwesome.Migrator.Log               - Continue to migration for this host database and all tenants..? (Y/N): 
+INFO  2018-03-13 04:34:07,073 [1    ] SchoolAwesome.Migrator.Log               - HOST database migration started...
+INFO  2018-03-13 04:34:07,866 [1    ] SchoolAwesome.Migrator.Log               - An error occured during migration of host database:
+INFO  2018-03-13 04:34:07,931 [1    ] SchoolAwesome.Migrator.Log               - System.InvalidOperationException: The property 'School_ClassArm.ClassArmColour' could not be mapped, because it is of type 'Nullable<Color>' which is not a supported primitive type or a valid entity type. Either explicitly map this property, or ignore it using the '[NotMapped]' attribute or by using 'EntityTypeBuilder.Ignore' in 'OnModelCreating'.
+   at Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.PropertyMappingValidationConvention.Apply(InternalModelBuilder modelBuilder)
+   at Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher.ImmediateConventionScope.OnModelBuilt(InternalModelBuilder modelBuilder)
+   at Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher.OnModelBuilt(InternalModelBuilder modelBuilder)
+   at Microsoft.EntityFrameworkCore.Metadata.Internal.Model.Validate()
+   at Microsoft.EntityFrameworkCore.Metadata.Internal.InternalModelBuilder.Validate()
+   at Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.CreateModel(DbContext context, IConventionSetBuilder conventionSetBuilder, IModelValidator validator)
+   at Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.<>c__DisplayClass5_0.<GetModel>b__0(Object k)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.GetModel(DbContext context, IConventionSetBuilder conventionSetBuilder, IModelValidator validator)
+   at Microsoft.EntityFrameworkCore.Internal.DbContextServices.CreateModel()
+   at Microsoft.EntityFrameworkCore.Internal.DbContextServices.get_Model()
+   at Microsoft.EntityFrameworkCore.Infrastructure.EntityFrameworkServicesBuilder.<>c.<TryAddCoreServices>b__7_1(IServiceProvider p)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitFactory(FactoryCallSite factoryCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScoped(ScopedCallSite scopedCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScoped(ScopedCallSite scopedCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.<>c__DisplayClass22_0.<RealizeService>b__0(ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.get_InternalServiceProvider()
+   at Microsoft.EntityFrameworkCore.DbContext.Microsoft.EntityFrameworkCore.Infrastructure.IInfrastructure<System.IServiceProvider>.get_Instance()
+   at Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade.Microsoft.EntityFrameworkCore.Infrastructure.IInfrastructure<System.IServiceProvider>.get_Instance()
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.GetRelationalService[TService](IInfrastructure`1 databaseFacade)
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(DatabaseFacade databaseFacade)
+   at Abp.Zero.EntityFrameworkCore.AbpZeroDbMigrator`1.CreateOrMigrate(AbpTenantBase tenant, Action`1 seedAction) in D:\Github\aspnetboilerplate\src\Abp.ZeroCore.EntityFrameworkCore\Zero\EntityFrameworkCore\AbpZeroDbMigrator.cs:line 74
+   at SchoolAwesome.Migrator.MultiTenantMigrateExecuter.Run(Boolean skipConnVerification) in /Users/idowuakinde/TutorialsAndSamples/DotNet/ASP.NET Boilerplate/SchoolAwesome/3.5.0/aspnet-core/src/SchoolAwesome.Migrator/MultiTenantMigrateExecuter.cs:line 62
+INFO  2018-03-13 04:34:07,932 [1    ] SchoolAwesome.Migrator.Log               - Canceled migrations.
+DEBUG 2018-03-13 04:34:32,764 [1    ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2018-03-13 04:34:32,767 [1    ] Abp.Modules.AbpModuleManager             - Shutting down completed.
+DEBUG 2018-03-13 04:35:53,556 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-03-13 04:35:53,646 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2018-03-13 04:35:53,952 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolAwesome.Migrator.SchoolAwesomeMigratorModule, SchoolAwesome.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:35:53,956 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolAwesome.EntityFrameworkCore.SchoolAwesomeEntityFrameworkModule, SchoolAwesome.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:35:53,956 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolAwesome.SchoolAwesomeCoreModule, SchoolAwesome.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:35:53,957 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:35:53,958 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:35:53,958 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:35:53,958 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:35:53,959 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:35:53,959 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:35:53,964 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2018-03-13 04:35:54,496 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: SchoolAwesome.EntityFrameworkCore.SchoolAwesomeDbContext, SchoolAwesome.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:35:55,096 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2018-03-13 04:35:55,127 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-03-13 04:35:55,135 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2018-03-13 04:35:55,139 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: SchoolAwesome
+INFO  2018-03-13 04:35:55,503 [1    ] SchoolAwesome.Migrator.Log               - Host database: server=localhost,1401;database=SchoolAwesomeDb;user id=*****;password=*****
+INFO  2018-03-13 04:35:55,503 [1    ] SchoolAwesome.Migrator.Log               - Continue to migration for this host database and all tenants..? (Y/N): 
+INFO  2018-03-13 04:35:59,338 [1    ] SchoolAwesome.Migrator.Log               - HOST database migration started...
+INFO  2018-03-13 04:36:00,091 [1    ] SchoolAwesome.Migrator.Log               - An error occured during migration of host database:
+INFO  2018-03-13 04:36:00,143 [1    ] SchoolAwesome.Migrator.Log               - System.InvalidOperationException: The property 'School_ClassArm.ClassArmColour' could not be mapped, because it is of type 'Color' which is not a supported primitive type or a valid entity type. Either explicitly map this property, or ignore it using the '[NotMapped]' attribute or by using 'EntityTypeBuilder.Ignore' in 'OnModelCreating'.
+   at Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.PropertyMappingValidationConvention.Apply(InternalModelBuilder modelBuilder)
+   at Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher.ImmediateConventionScope.OnModelBuilt(InternalModelBuilder modelBuilder)
+   at Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher.OnModelBuilt(InternalModelBuilder modelBuilder)
+   at Microsoft.EntityFrameworkCore.Metadata.Internal.Model.Validate()
+   at Microsoft.EntityFrameworkCore.Metadata.Internal.InternalModelBuilder.Validate()
+   at Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.CreateModel(DbContext context, IConventionSetBuilder conventionSetBuilder, IModelValidator validator)
+   at Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.<>c__DisplayClass5_0.<GetModel>b__0(Object k)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.GetModel(DbContext context, IConventionSetBuilder conventionSetBuilder, IModelValidator validator)
+   at Microsoft.EntityFrameworkCore.Internal.DbContextServices.CreateModel()
+   at Microsoft.EntityFrameworkCore.Internal.DbContextServices.get_Model()
+   at Microsoft.EntityFrameworkCore.Infrastructure.EntityFrameworkServicesBuilder.<>c.<TryAddCoreServices>b__7_1(IServiceProvider p)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitFactory(FactoryCallSite factoryCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScoped(ScopedCallSite scopedCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScoped(ScopedCallSite scopedCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.<>c__DisplayClass22_0.<RealizeService>b__0(ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.get_InternalServiceProvider()
+   at Microsoft.EntityFrameworkCore.DbContext.Microsoft.EntityFrameworkCore.Infrastructure.IInfrastructure<System.IServiceProvider>.get_Instance()
+   at Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade.Microsoft.EntityFrameworkCore.Infrastructure.IInfrastructure<System.IServiceProvider>.get_Instance()
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.GetRelationalService[TService](IInfrastructure`1 databaseFacade)
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(DatabaseFacade databaseFacade)
+   at Abp.Zero.EntityFrameworkCore.AbpZeroDbMigrator`1.CreateOrMigrate(AbpTenantBase tenant, Action`1 seedAction) in D:\Github\aspnetboilerplate\src\Abp.ZeroCore.EntityFrameworkCore\Zero\EntityFrameworkCore\AbpZeroDbMigrator.cs:line 74
+   at SchoolAwesome.Migrator.MultiTenantMigrateExecuter.Run(Boolean skipConnVerification) in /Users/idowuakinde/TutorialsAndSamples/DotNet/ASP.NET Boilerplate/SchoolAwesome/3.5.0/aspnet-core/src/SchoolAwesome.Migrator/MultiTenantMigrateExecuter.cs:line 62
+INFO  2018-03-13 04:36:00,143 [1    ] SchoolAwesome.Migrator.Log               - Canceled migrations.
+DEBUG 2018-03-13 04:36:27,791 [1    ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2018-03-13 04:36:27,793 [1    ] Abp.Modules.AbpModuleManager             - Shutting down completed.
+DEBUG 2018-03-13 04:38:44,877 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-03-13 04:38:44,961 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2018-03-13 04:38:45,281 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolAwesome.Migrator.SchoolAwesomeMigratorModule, SchoolAwesome.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:38:45,285 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolAwesome.EntityFrameworkCore.SchoolAwesomeEntityFrameworkModule, SchoolAwesome.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:38:45,286 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolAwesome.SchoolAwesomeCoreModule, SchoolAwesome.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:38:45,286 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:38:45,287 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:38:45,287 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:38:45,288 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:38:45,288 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:38:45,289 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:38:45,292 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2018-03-13 04:38:45,740 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: SchoolAwesome.EntityFrameworkCore.SchoolAwesomeDbContext, SchoolAwesome.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:38:46,318 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2018-03-13 04:38:46,345 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-03-13 04:38:46,354 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2018-03-13 04:38:46,357 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: SchoolAwesome
+INFO  2018-03-13 04:38:46,632 [1    ] SchoolAwesome.Migrator.Log               - Host database: server=localhost,1401;database=SchoolAwesomeDb;user id=*****;password=*****
+INFO  2018-03-13 04:38:46,633 [1    ] SchoolAwesome.Migrator.Log               - Continue to migration for this host database and all tenants..? (Y/N): 
+INFO  2018-03-13 04:38:50,096 [1    ] SchoolAwesome.Migrator.Log               - HOST database migration started...
+INFO  2018-03-13 04:38:50,821 [1    ] SchoolAwesome.Migrator.Log               - An error occured during migration of host database:
+INFO  2018-03-13 04:38:50,885 [1    ] SchoolAwesome.Migrator.Log               - System.InvalidOperationException: The property 'School_ClassArm.ClassArmColour' could not be mapped, because it is of type 'Nullable<Color>' which is not a supported primitive type or a valid entity type. Either explicitly map this property, or ignore it using the '[NotMapped]' attribute or by using 'EntityTypeBuilder.Ignore' in 'OnModelCreating'.
+   at Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.PropertyMappingValidationConvention.Apply(InternalModelBuilder modelBuilder)
+   at Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher.ImmediateConventionScope.OnModelBuilt(InternalModelBuilder modelBuilder)
+   at Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher.OnModelBuilt(InternalModelBuilder modelBuilder)
+   at Microsoft.EntityFrameworkCore.Metadata.Internal.Model.Validate()
+   at Microsoft.EntityFrameworkCore.Metadata.Internal.InternalModelBuilder.Validate()
+   at Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.CreateModel(DbContext context, IConventionSetBuilder conventionSetBuilder, IModelValidator validator)
+   at Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.<>c__DisplayClass5_0.<GetModel>b__0(Object k)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.GetModel(DbContext context, IConventionSetBuilder conventionSetBuilder, IModelValidator validator)
+   at Microsoft.EntityFrameworkCore.Internal.DbContextServices.CreateModel()
+   at Microsoft.EntityFrameworkCore.Internal.DbContextServices.get_Model()
+   at Microsoft.EntityFrameworkCore.Infrastructure.EntityFrameworkServicesBuilder.<>c.<TryAddCoreServices>b__7_1(IServiceProvider p)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitFactory(FactoryCallSite factoryCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScoped(ScopedCallSite scopedCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScoped(ScopedCallSite scopedCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.<>c__DisplayClass22_0.<RealizeService>b__0(ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.get_InternalServiceProvider()
+   at Microsoft.EntityFrameworkCore.DbContext.Microsoft.EntityFrameworkCore.Infrastructure.IInfrastructure<System.IServiceProvider>.get_Instance()
+   at Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade.Microsoft.EntityFrameworkCore.Infrastructure.IInfrastructure<System.IServiceProvider>.get_Instance()
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.GetRelationalService[TService](IInfrastructure`1 databaseFacade)
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(DatabaseFacade databaseFacade)
+   at Abp.Zero.EntityFrameworkCore.AbpZeroDbMigrator`1.CreateOrMigrate(AbpTenantBase tenant, Action`1 seedAction) in D:\Github\aspnetboilerplate\src\Abp.ZeroCore.EntityFrameworkCore\Zero\EntityFrameworkCore\AbpZeroDbMigrator.cs:line 74
+   at SchoolAwesome.Migrator.MultiTenantMigrateExecuter.Run(Boolean skipConnVerification) in /Users/idowuakinde/TutorialsAndSamples/DotNet/ASP.NET Boilerplate/SchoolAwesome/3.5.0/aspnet-core/src/SchoolAwesome.Migrator/MultiTenantMigrateExecuter.cs:line 62
+INFO  2018-03-13 04:38:50,886 [1    ] SchoolAwesome.Migrator.Log               - Canceled migrations.
+DEBUG 2018-03-13 04:39:07,290 [1    ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2018-03-13 04:39:07,291 [1    ] Abp.Modules.AbpModuleManager             - Shutting down completed.
+DEBUG 2018-03-13 04:40:01,766 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-03-13 04:40:01,891 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2018-03-13 04:40:02,181 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolAwesome.Migrator.SchoolAwesomeMigratorModule, SchoolAwesome.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:40:02,188 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolAwesome.EntityFrameworkCore.SchoolAwesomeEntityFrameworkModule, SchoolAwesome.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:40:02,188 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolAwesome.SchoolAwesomeCoreModule, SchoolAwesome.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:40:02,189 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:40:02,189 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:40:02,190 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:40:02,190 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:40:02,191 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:40:02,191 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:40:02,199 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2018-03-13 04:40:02,710 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: SchoolAwesome.EntityFrameworkCore.SchoolAwesomeDbContext, SchoolAwesome.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:40:03,282 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2018-03-13 04:40:03,308 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-03-13 04:40:03,317 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2018-03-13 04:40:03,320 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: SchoolAwesome
+INFO  2018-03-13 04:40:03,583 [1    ] SchoolAwesome.Migrator.Log               - Host database: server=localhost,1401;database=SchoolAwesomeDb;user id=*****;password=*****
+INFO  2018-03-13 04:40:03,584 [1    ] SchoolAwesome.Migrator.Log               - Continue to migration for this host database and all tenants..? (Y/N): 
+INFO  2018-03-13 04:40:06,736 [1    ] SchoolAwesome.Migrator.Log               - HOST database migration started...
+INFO  2018-03-13 04:40:07,467 [1    ] SchoolAwesome.Migrator.Log               - An error occured during migration of host database:
+INFO  2018-03-13 04:40:07,523 [1    ] SchoolAwesome.Migrator.Log               - System.InvalidOperationException: The property 'School_ClassArm.ClassArmColour' could not be mapped, because it is of type 'Color' which is not a supported primitive type or a valid entity type. Either explicitly map this property, or ignore it using the '[NotMapped]' attribute or by using 'EntityTypeBuilder.Ignore' in 'OnModelCreating'.
+   at Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.PropertyMappingValidationConvention.Apply(InternalModelBuilder modelBuilder)
+   at Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher.ImmediateConventionScope.OnModelBuilt(InternalModelBuilder modelBuilder)
+   at Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher.OnModelBuilt(InternalModelBuilder modelBuilder)
+   at Microsoft.EntityFrameworkCore.Metadata.Internal.Model.Validate()
+   at Microsoft.EntityFrameworkCore.Metadata.Internal.InternalModelBuilder.Validate()
+   at Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.CreateModel(DbContext context, IConventionSetBuilder conventionSetBuilder, IModelValidator validator)
+   at Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.<>c__DisplayClass5_0.<GetModel>b__0(Object k)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.GetModel(DbContext context, IConventionSetBuilder conventionSetBuilder, IModelValidator validator)
+   at Microsoft.EntityFrameworkCore.Internal.DbContextServices.CreateModel()
+   at Microsoft.EntityFrameworkCore.Internal.DbContextServices.get_Model()
+   at Microsoft.EntityFrameworkCore.Infrastructure.EntityFrameworkServicesBuilder.<>c.<TryAddCoreServices>b__7_1(IServiceProvider p)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitFactory(FactoryCallSite factoryCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScoped(ScopedCallSite scopedCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScoped(ScopedCallSite scopedCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.<>c__DisplayClass22_0.<RealizeService>b__0(ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.get_InternalServiceProvider()
+   at Microsoft.EntityFrameworkCore.DbContext.Microsoft.EntityFrameworkCore.Infrastructure.IInfrastructure<System.IServiceProvider>.get_Instance()
+   at Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade.Microsoft.EntityFrameworkCore.Infrastructure.IInfrastructure<System.IServiceProvider>.get_Instance()
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.GetRelationalService[TService](IInfrastructure`1 databaseFacade)
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(DatabaseFacade databaseFacade)
+   at Abp.Zero.EntityFrameworkCore.AbpZeroDbMigrator`1.CreateOrMigrate(AbpTenantBase tenant, Action`1 seedAction) in D:\Github\aspnetboilerplate\src\Abp.ZeroCore.EntityFrameworkCore\Zero\EntityFrameworkCore\AbpZeroDbMigrator.cs:line 74
+   at SchoolAwesome.Migrator.MultiTenantMigrateExecuter.Run(Boolean skipConnVerification) in /Users/idowuakinde/TutorialsAndSamples/DotNet/ASP.NET Boilerplate/SchoolAwesome/3.5.0/aspnet-core/src/SchoolAwesome.Migrator/MultiTenantMigrateExecuter.cs:line 62
+INFO  2018-03-13 04:40:07,523 [1    ] SchoolAwesome.Migrator.Log               - Canceled migrations.
+DEBUG 2018-03-13 04:40:28,409 [1    ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2018-03-13 04:40:28,411 [1    ] Abp.Modules.AbpModuleManager             - Shutting down completed.
+DEBUG 2018-03-13 04:43:50,948 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-03-13 04:43:51,077 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2018-03-13 04:43:51,369 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolAwesome.Migrator.SchoolAwesomeMigratorModule, SchoolAwesome.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:43:51,373 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolAwesome.EntityFrameworkCore.SchoolAwesomeEntityFrameworkModule, SchoolAwesome.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:43:51,373 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolAwesome.SchoolAwesomeCoreModule, SchoolAwesome.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:43:51,373 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:43:51,374 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:43:51,374 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:43:51,374 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:43:51,375 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:43:51,375 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:43:51,381 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2018-03-13 04:43:51,825 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: SchoolAwesome.EntityFrameworkCore.SchoolAwesomeDbContext, SchoolAwesome.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:43:52,416 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2018-03-13 04:43:52,441 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-03-13 04:43:52,449 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2018-03-13 04:43:52,451 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: SchoolAwesome
+INFO  2018-03-13 04:43:52,728 [1    ] SchoolAwesome.Migrator.Log               - Host database: server=localhost,1401;database=SchoolAwesomeDb;user id=*****;password=*****
+INFO  2018-03-13 04:43:52,728 [1    ] SchoolAwesome.Migrator.Log               - Continue to migration for this host database and all tenants..? (Y/N): 
+INFO  2018-03-13 04:43:54,833 [1    ] SchoolAwesome.Migrator.Log               - HOST database migration started...
+INFO  2018-03-13 04:43:55,570 [1    ] SchoolAwesome.Migrator.Log               - An error occured during migration of host database:
+INFO  2018-03-13 04:43:55,634 [1    ] SchoolAwesome.Migrator.Log               - System.InvalidOperationException: The property 'School_ClassArm.ClassArmColour' could not be mapped, because it is of type 'Color' which is not a supported primitive type or a valid entity type. Either explicitly map this property, or ignore it using the '[NotMapped]' attribute or by using 'EntityTypeBuilder.Ignore' in 'OnModelCreating'.
+   at Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.PropertyMappingValidationConvention.Apply(InternalModelBuilder modelBuilder)
+   at Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher.ImmediateConventionScope.OnModelBuilt(InternalModelBuilder modelBuilder)
+   at Microsoft.EntityFrameworkCore.Metadata.Conventions.Internal.ConventionDispatcher.OnModelBuilt(InternalModelBuilder modelBuilder)
+   at Microsoft.EntityFrameworkCore.Metadata.Internal.Model.Validate()
+   at Microsoft.EntityFrameworkCore.Metadata.Internal.InternalModelBuilder.Validate()
+   at Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.CreateModel(DbContext context, IConventionSetBuilder conventionSetBuilder, IModelValidator validator)
+   at Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.<>c__DisplayClass5_0.<GetModel>b__0(Object k)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.EntityFrameworkCore.Infrastructure.ModelSource.GetModel(DbContext context, IConventionSetBuilder conventionSetBuilder, IModelValidator validator)
+   at Microsoft.EntityFrameworkCore.Internal.DbContextServices.CreateModel()
+   at Microsoft.EntityFrameworkCore.Internal.DbContextServices.get_Model()
+   at Microsoft.EntityFrameworkCore.Infrastructure.EntityFrameworkServicesBuilder.<>c.<TryAddCoreServices>b__7_1(IServiceProvider p)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitFactory(FactoryCallSite factoryCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScoped(ScopedCallSite scopedCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScoped(ScopedCallSite scopedCallSite, ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(IServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.<>c__DisplayClass22_0.<RealizeService>b__0(ServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at Microsoft.EntityFrameworkCore.DbContext.get_DbContextDependencies()
+   at Microsoft.EntityFrameworkCore.DbContext.get_InternalServiceProvider()
+   at Microsoft.EntityFrameworkCore.DbContext.Microsoft.EntityFrameworkCore.Infrastructure.IInfrastructure<System.IServiceProvider>.get_Instance()
+   at Microsoft.EntityFrameworkCore.Infrastructure.DatabaseFacade.Microsoft.EntityFrameworkCore.Infrastructure.IInfrastructure<System.IServiceProvider>.get_Instance()
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.GetRelationalService[TService](IInfrastructure`1 databaseFacade)
+   at Microsoft.EntityFrameworkCore.RelationalDatabaseFacadeExtensions.Migrate(DatabaseFacade databaseFacade)
+   at Abp.Zero.EntityFrameworkCore.AbpZeroDbMigrator`1.CreateOrMigrate(AbpTenantBase tenant, Action`1 seedAction) in D:\Github\aspnetboilerplate\src\Abp.ZeroCore.EntityFrameworkCore\Zero\EntityFrameworkCore\AbpZeroDbMigrator.cs:line 74
+   at SchoolAwesome.Migrator.MultiTenantMigrateExecuter.Run(Boolean skipConnVerification) in /Users/idowuakinde/TutorialsAndSamples/DotNet/ASP.NET Boilerplate/SchoolAwesome/3.5.0/aspnet-core/src/SchoolAwesome.Migrator/MultiTenantMigrateExecuter.cs:line 62
+INFO  2018-03-13 04:43:55,635 [1    ] SchoolAwesome.Migrator.Log               - Canceled migrations.
+DEBUG 2018-03-13 04:44:17,156 [1    ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2018-03-13 04:44:17,157 [1    ] Abp.Modules.AbpModuleManager             - Shutting down completed.
+DEBUG 2018-03-13 04:45:35,665 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-03-13 04:45:35,758 [1    ] Abp.Modules.AbpModuleManager             - Found 9 ABP modules in total.
+DEBUG 2018-03-13 04:45:36,040 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolAwesome.Migrator.SchoolAwesomeMigratorModule, SchoolAwesome.Migrator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:45:36,043 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolAwesome.EntityFrameworkCore.SchoolAwesomeEntityFrameworkModule, SchoolAwesome.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:45:36,043 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: SchoolAwesome.SchoolAwesomeCoreModule, SchoolAwesome.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:45:36,043 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:45:36,044 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:45:36,044 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:45:36,044 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:45:36,045 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:45:36,045 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:45:36,050 [1    ] Abp.Modules.AbpModuleManager             - 9 modules loaded.
+DEBUG 2018-03-13 04:45:36,484 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: SchoolAwesome.EntityFrameworkCore.SchoolAwesomeDbContext, SchoolAwesome.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-03-13 04:45:37,088 [1    ] Abp.Localization.LocalizationManager     - Initializing 3 localization sources.
+DEBUG 2018-03-13 04:45:37,115 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-03-13 04:45:37,121 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2018-03-13 04:45:37,124 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: SchoolAwesome
+INFO  2018-03-13 04:45:37,401 [1    ] SchoolAwesome.Migrator.Log               - Host database: server=localhost,1401;database=SchoolAwesomeDb;user id=*****;password=*****
+INFO  2018-03-13 04:45:37,402 [1    ] SchoolAwesome.Migrator.Log               - Continue to migration for this host database and all tenants..? (Y/N): 
+INFO  2018-03-13 04:45:39,108 [1    ] SchoolAwesome.Migrator.Log               - HOST database migration started...
+INFO  2018-03-13 04:45:40,990 [1    ] SchoolAwesome.Migrator.Log               - HOST database migration completed.
+INFO  2018-03-13 04:45:40,991 [1    ] SchoolAwesome.Migrator.Log               - --------------------------------------------------------
+INFO  2018-03-13 04:45:41,052 [1    ] SchoolAwesome.Migrator.Log               - All databases have been migrated.
+DEBUG 2018-03-13 04:46:43,208 [1    ] Abp.Modules.AbpModuleManager             - Shutting down has been started
+DEBUG 2018-03-13 04:46:43,210 [1    ] Abp.Modules.AbpModuleManager             - Shutting down completed.
